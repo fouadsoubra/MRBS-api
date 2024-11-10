@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\MeetingRoomBookingSystem\MRBS.Core\bin\Debug\net6.0\MRBS.Core.deps.json
+C:\Users\HP\source\repos\MeetingRoomBookingSystem\MRBS.Core\bin\Debug\net6.0\MRBS.Core.runtimeconfig.json
+C:\Users\HP\source\repos\MeetingRoomBookingSystem\MRBS.Core\bin\Debug\net6.0\MRBS.Core.dll
+C:\Users\HP\source\repos\MeetingRoomBookingSystem\MRBS.Core\bin\Debug\net6.0\MRBS.Core.pdb
+C:\Users\HP\source\repos\MeetingRoomBookingSystem\MRBS.Core\obj\Debug\net6.0\MRBS.Core.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MeetingRoomBookingSystem\MRBS.Core\obj\Debug\net6.0\MRBS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MeetingRoomBookingSystem\MRBS.Core\obj\Debug\net6.0\MRBS.Core.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MeetingRoomBookingSystem\MRBS.Core\obj\Debug\net6.0\MRBS.Core.AssemblyInfo.cs
+C:\Users\HP\source\repos\MeetingRoomBookingSystem\MRBS.Core\obj\Debug\net6.0\MRBS.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MeetingRoomBookingSystem\MRBS.Core\obj\Debug\net6.0\MRBS.Core.dll
+C:\Users\HP\source\repos\MeetingRoomBookingSystem\MRBS.Core\obj\Debug\net6.0\refint\MRBS.Core.dll
+C:\Users\HP\source\repos\MeetingRoomBookingSystem\MRBS.Core\obj\Debug\net6.0\MRBS.Core.pdb
+C:\Users\HP\source\repos\MeetingRoomBookingSystem\MRBS.Core\obj\Debug\net6.0\MRBS.Core.genruntimeconfig.cache
+C:\Users\HP\source\repos\MeetingRoomBookingSystem\MRBS.Core\obj\Debug\net6.0\ref\MRBS.Core.dll
